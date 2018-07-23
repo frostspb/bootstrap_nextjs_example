@@ -6,8 +6,11 @@ Example of integration Bootstrap 4 and Next.js
 Usage:
 
 git clone https://github.com/frostspb/bootsrap_nextjs_example.git
+
 cd bootsrap_nextjs_example
+
 npm install
+
 npm run dev
 
 
