@@ -1,0 +1,35 @@
+{
+  "name": "bootsrap_nextjs_example",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^0.2.0",
+    "bootstrap": "^4.1.2",
+    "next": "6.1.1",
+    "react": "16.4.1",
+    "react-dom": "16.4.1",
+    "reactstrap": "^6.3.0"
+  },
+  "description": "Example of integration Bootstrap 4 and Next.js",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frostspb/bootsrap_nextjs_example.git"
+  },
+  "keywords": [
+    "next.js",
+    "bootstrap",
+    "reactstrap",
+    "example"
+  ],
+  "author": "frostspb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frostspb/bootsrap_nextjs_example/issues"
+  },
+  "homepage": "https://github.com/frostspb/bootsrap_nextjs_example#readme"
+}
