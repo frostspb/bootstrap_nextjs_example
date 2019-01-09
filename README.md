@@ -1,5 +1,4 @@
 # bootsrap_nextjs_example
-
 **Example of integration Bootstrap 4 and Next.js**
 
 
