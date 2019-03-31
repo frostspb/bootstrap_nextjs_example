@@ -2,8 +2,9 @@
 **Example of integration Bootstrap 4 and Next.js**
 
 
-Usage:
+*Usage:*
 
+```bash
 git clone https://github.com/frostspb/bootsrap_nextjs_example.git
 
 cd bootsrap_nextjs_example
@@ -11,13 +12,18 @@ cd bootsrap_nextjs_example
 npm install
 
 npm run dev
-
+```
 
 
 Pay attention to the files:
 
-next.config.js  - contains config of CSS Loader
+*next.config.js*  - contains config of CSS Loader
 
-_document.js - contains compiled styles
+*_document.js* - contains compiled styles
 
-and the line "import 'bootstrap/dist/css/bootstrap.min.css';" in layouts/main.js
+and the line
+
+ ```javascript
+ "import 'bootstrap/dist/css/bootstrap.min.css';" 
+ ```
+ in layouts/main.js
